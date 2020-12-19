@@ -2,7 +2,7 @@
   "name": "my-portfolio-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://p32929.github.io/",
+  "homepage": "https://rapixar.github.io/",
   "dependencies": {
     "@material-ui/core": "^4.9.10",
     "@testing-library/jest-dom": "^4.2.4",
@@ -18,7 +18,7 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PORT=3006 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
